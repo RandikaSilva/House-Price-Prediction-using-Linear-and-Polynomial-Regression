@@ -83,5 +83,5 @@ This project explores predicting house prices based on synthetic real estate dat
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/house-price-prediction.git](https://github.com/RandikaSilva/House-Price-Prediction-using-Linear-and-Polynomial-Regression)
+   git clone https://github.com/RandikaSilva/House-Price-Prediction-using-Linear-and-Polynomial-Regression
    cd House-Price-Prediction-using-Linear-and-Polynomial-Regression
